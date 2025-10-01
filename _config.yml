@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Lancelot Ravier
 title: |
-  Etudiant en Master Statistiques et Sciences de Données
+  Master's student in Statistics and Data Science (M2) at UGA
     
 email: lancelotravier@gmail.com
 # email_title: Email (Email title override)
@@ -51,41 +51,41 @@ linkedin_username: ravierl
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A propos de moi
+about_title: About me
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
 
-  Passionné par l'analyse de données et son impact sur le monde réel, je recherche un stage de Master 2 en modélisation statistique et/ou machine learning dans le domaine de la santé, afin de mettre en pratique mes connaissances et <b>préparer une future thèse</b> dans ces domaines de recherche.
+  Passionated by data analysis and its impact in real world, i'm currently seeking an M2 internship (6 months) in biostatistics (preferably modelization/machine learning), with the objective to pursue my dream of <b>doing a thesis in this research field</b>.
 
   <hr>
 
-  Langues vivantes :
-  <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
-  (natif),
+  Spoken languages :
+  <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;" title="French">
+  (native),
   <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Anglais">
-  (courant),
+  (fluent),
   <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Portugais (Brésil)">
-  (natif),
+  (native),
   <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Espagnol">
-  (intermédiaire),
+  (intermediate),
   <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Allemand">
-  (débutant),
+  (beginner),
   <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Russe">
-  (débutant)
+  (beginner)
 
   <hr>
 
-  Langages/Logiciels maitrisés:
-  <img src="images/R.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/python.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/julia.png" height="60" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/git.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/latex.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
+  Programming languages / softwares:
+  <img src="images/R.png" height="40" style="vertical-align:middle; margin-right:5px;" title="R">
+  <img src="images/python.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Python">
+  <img src="images/julia.png" height="60" style="vertical-align:middle; margin-right:5px;" title="Julia">
+  <img src="images/git.png" height="40" style="vertical-align:middle; margin-right:5px;" title="gitbash">
+  <img src="images/latex.png" height="40" style="vertical-align:middle; margin-right:5px;" title="latex">
 
   <hr>
 
 content:
-  - title: Publication(s) Scientifique(s) # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -93,82 +93,84 @@ content:
                       # other value (or no value) means no border will be displayed
         title: <img src="images/expedition5300.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Anemia and iron status in children living permanently at high altitude
         link: https://expedition5300.com/nos-recherches/
-        link_text: Projet "Expedition 5300"
+        link_text: Project "Expedition 5300"
         quote: >
-          Effet de l'altitude sur le développement des enfants de 6 mois à 12 ans vivant au Pérou
+          
+          Effect of altitude on the developpement of children aged 6 month to 12 years, born in the highest city in the world located in Peru
         description: | # this will include new lines to allow paragraphs
-          Publication scientifique en cours de rédaction en vue d'une soumission fin 2025 à la suite de mon stage effectué au laboratoire HP2 pour le projet "Expedition 5300", dans lequel j'ai effectué la partie analyse de données et modélisation sur l'effet de l'altitude dans le développement hematologique des enfaits vivant au pérou, dans la ville la plus haute du monde (La Rinconada - 5300m) <br>
-          <b>Journal visé : American Journal of Hematology</b>
+          Scientific paper being drafted for submission in early 2026 following my internship at HP2 laboratory (INSERM U1042) about project "Expedition 5300" in which i did the data nalysis and created models to explain and predict altitude effect on the developpement of hematological developpement of children born and living in Peru, at the highest city in the world (La Rinconada - 5300m) <br>
+          <b>Targeted journal : American Journal of Hematology</b>
 
-  - title: Diplômes # Title for the section
+  - title: Degrees # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistics and Data Science
         quote: >
           Université Grenoble Alpes - Actuel
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : <b>Statistique computationnelle</b> (bootstrap, MCMC, Bayésien), <b>Statistique en grande dimension</b> (tests multiples, Lasso, Ridge), <b>Estimation non paramétrique</b> (noyaux, fonctions de régression), <b>Machine Learning</b> (arbres, SVM, forêts aléatoires, deep learning sous Python), <b>Optimisation</b> (Python, Julia), <b>Biostatistique avancée</b> (modèles de Cox, mixtes, inférence causale), <b>Fiabilité</b> (lois de probabilité, Weibull, maintenance), <b>Fouille de textes</b> (Word2Vec, BERT, NLP avec PyTorch/TensorFlow), <b>Géostatistique et statistique spatiale</b> (krigeage, processus de Poisson, modèles de Gibbs).
+          Courses taken : <b>Computational statistics</b> (bootstrap, MCMC, Bayesian), <b>High-dimensional statistics</b> (multiple tests, Lasso, Ridge), <b>Nonparametric estimation</b> (kernel, regression functions), <b>Machine Learning</b> (Trees, SVM, random forests, deep learning using Python), <b>Optimization</b> (Python, Julia), <b>Advanced biostatistics</b> (Cox regression, mixed models, causality inference), <b>Reliability</b> (probability laws, Weibull, maintenance), <b>Large language models</b> (NLP using PyTorch/TensorFlow, Word2Vec, BERT), <b>Geostatistics</b> (kriging, Poisson process, Gibbs models).
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistiques et Sciences de Données
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistics and Data Science
         quote: >
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : 
-          <b>Probabilités</b>, 
-          <b>Statistiques inférentielles</b>, 
-          <b>Tests statistiques</b>, 
-          <b>Machine learning</b> (clustering, LDA, QDA, régression logistique, modèles pénalisés), 
-          <b>Analyse de données</b> (ACP, AFC, Classification, Régression), 
-          <b>Séries temporelles</b> (ARMA/ARIMA), 
-          <b>Modèles linéaires et GLM</b>, 
-          <b>Bases de données</b> (SQL), 
-          <b>Programmation</b> (R, Python, Julia), 
-          <b>Production de rapports reproductibles</b> (RMarkdown, \LaTeX), 
-          <b>Applications web</b> (Shiny), 
-          <b>Gestion de projet</b> (GitHub). <br> <mark>Moyenne : 15.665/20</mark>
+          Courses taken : 
+          <b>Probabilities</b>, 
+          <b>Statistical inference</b>, 
+          <b>Statistical tests</b>, 
+          <b>Machine learning</b> (clustering, LDA, QDA, logistic regression, lasso/ridge models), 
+          <bComponent analysis</b> (PCA, PCF, Classification), 
+          <b>Time series</b> (ARMA/ARIMA), 
+          <b>Linear models and GLM</b>, 
+          <b>Database</b> (SQL), 
+          <b>Programming</b> (R, Python, Julia), 
+          <b>Production of reproducible reports</b> (RMarkdown, \LaTeX), 
+          <b>Web interface</b> (Shiny), 
+          <b>Project management</b> (git). <br> <mark>Mean : 15.665/20</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Licence - Economie Appliquée & Analyse de Données
+        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Bachelor - Applied Economics and Data Science
         quote: >
-          Université Grenoble Alpes - 2021/2022, 2022/2023, 2023/2024 (Mention Bien)
+          Université Grenoble Alpes - 2021/2022, 2022/2023, 2023/2024 (with honors)
         description: | # this will include new lines to allow paragraphs
-          Classement : <mark>1/341 (L1)</mark>, <mark>2/328 (L2)</mark>, <mark>1/60 (L3)</mark> <br> Moyennes : <mark>17.443/20 (L1)</mark>, <mark>18.022/20 (L2)</mark>, <mark>16.328/20 (L3)</mark>
+          Rank : <mark>1/341 (L1)</mark>, <mark>2/328 (L2)</mark>, <mark>1/60 (L3)</mark> <br> Means : <mark>17.443/20 (L1)</mark>, <mark>18.022/20 (L2)</mark>, <mark>16.328/20 (L3)</mark>
 
-  - title: Projets universitaires et expériences académiques # Title for the section
+  - title: Projects and academic experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Projet Expedition 5300 (Enfants)
+        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Project "Expedition 5300" (Childrens)
         link: https://expedition5300.com/nos-recherches/
-        link_text: Site officiel du projet
+        link_text: Official website of the project
         additional_links:
-          - title:  Repository Github personnel
+          - title:  Personal github repo
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
-          Stage de Master 1 réalisé sous la supervision de Samuel VERGES au laboratoire HP2 (Hopital SUD - Echirolles)
+          Master 1 internship supervized by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles)
         description: | # this will include new lines to allow paragraphs
-         Dans le cadre du projet Expédition 5300, j’ai commencé par lire les articles scientifique (anglais) mis a disposition par mon superviseur pour m'inprégner du sujet, puis j'ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques en choisissant les outils statistiques adéquat pour quantifier les effets de l’altitude sur le développement des enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+         As part of the Expedition 5300 project, i began by reading scientific articles (in english) provided by my supervisor, then i contributed to the data processing and analysis of physiological and hematological data by choosing the right statistical methods to quantify the effect of altitude on the developpement of childrens living in Lima (150m), Cusco (3400m), Juliaca (3800m), and La Rinconada (5300m). I also participated in establishing detection tresholds and evaluating different epidemiological definitions of anemia and polypolycythemia. Finally, i summarized my results by creating figures, statistical summaries and vizualizations for related publications and communications.
+         <br> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Biomarqueurs pour le cancer du Colon
+        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Prognostic biomarkers in colon cancer
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_prognostic_biomarkers_in_colon_cancer/blob/main/01_final_report.pdf
         quote: >
-          Projet tutoré réalisé sous la supervision de Ekaterina FLIN à l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
+          Research project supervized by Ekaterina Flin and Pr. Severine Valmary-Degano at IAB Laboratory, Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Comparaison des performances de detection du cancer du colon selon l'anticorp choisi à l'aide des courbes de survies, des tests de log-rank et des modèles de cox et développement de modèles de machine-learning pour détecter certaines tumeurs aux besions de traitemnet particulier à l'aide des données d'expression et de methylation de gênes. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Comparison of colon cancer detection performance according to the antibody chosen using survival curves, log-rank test and Cox models, and training Machine Learning models to detect certains tumors requiring specific treatment using gene expression and methylation data. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -179,22 +181,22 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/data_challenge_epiclock/blob/main/projet_glm_ravier_combelles.pdf
         quote: >
-          Data challenge réalisé sous la supervision de Florent Chuffart (IAB Grenoble) dans le cadre d'un cours de Machine-Learning en Master 1.
+          Data challenge conducted under the supervision of Florent Chuffart (IAB Grenoble) as part of Master's course in machine learning (M1)
         description: | # this will include new lines to allow paragraphs
-          Développement et comparaison de modèles statistiques et de machine learning (régressions pénalisées, XGBoost, ElasticNet) appliqués à des données de méthylation d’ADN. Optimisation par validation croisée et évaluation des performances via RMSE. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Developement and comparison of statistical and machine learning models (penalized regressions, XGBoost, ElasticNet) applied to DNA methylation data. Optimization through cross-validation and performance evaluation using RMSE. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Jeu de BlackJack en Julia (Package)
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Julia BlackJack game (Package)
         additional_links:
-          - title:  Repository du package Julia
+          - title:  Repo of Julia package
             icon: fab fa-github
             url: https://github.com/lancelot-r/ProjetBlackJack.jl
         quote: >
-          Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
+          Project conducted in 2024 under the supervision of Remy Drouilhet (IMAG - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Codage d'un jeu de Blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide de code HTML, benchmarks entre Julia/R/C++ et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
+          Coded a Blackjack game in Julia without external packages; developed the graphical interface in Pluto using HTML; performed benchmarks between Julia/R/Cpp; implemented various functions to illustrate Julia's multiple dispatch versus R's single dispatch <br>
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
@@ -203,93 +205,93 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Modélisation temporelle de la consommation d'énergie / température à Tétouan (Maroc) 
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Time series modeling of energy consumption and temperature in Tetouan (Morocco).
         additional_links:
-          - title:  Repository du projet
+          - title:  Project repo
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_electricite_temperature/blob/main/rapport.pdf
         quote: >
-          Projet réalisé en 2025 sous la supervision de Frédérique Leblanc (LJK - Grenlble)
+          Project conducted in 2025 under the supervision of Frédérique Leblanc (LJK – Grenoble).
         description: | # this will include new lines to allow paragraphs
-          Modélisation de la consommation électrique et de la température pour l'été 2017 à Tétouan (Maroc) à partir de données horaires (base de donneés publique), mise en place et comparaison de modèles de prévision (SARIMA manuel/auto, Holt-Winters ETS) avec évaluation via AIC, BIC et RMSE et étude de la corrélation entre température et consommation (forecast, tseries, ggplot2).
+          Modeling of electricity consumption and temperature for summer 2017 in Tetouan (Morocco) using hourly data (public database); implementation and comparison of forecasting models (manual/auto SARIMA, Holt-Winters ETS) with evaluation through AIC, BIC, and RMSE; analysis of the correlation between temperature and consumption (forecast, tseries, ggplot2). <br>
           <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Les déterminents de l'utilisation de Glyphosate en France
+        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Determinants of Glyphosate use in France.
         additional_links:
-          - title:  Repository du projet
+          - title:  Repository of the projet
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_consommation_glyphosate_france/blob/main/projet.pdf
         quote: >
-          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
+          Project conducted in 2024 under the supervision of Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Recherche et concaténation des bases de données liées à l'achat de glyphosate et aux caracteristiques des terrains agricoles par département puis recherche du meilleur modèle linéaire afin de rechercher et quantifier l'influence des variables agricoles consommation de glyphosate en France. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Collected and merged databases on glyphosate purchases and agricultural land characteristics by department; identified the best linear model to analyze and quantify the influence of agricultural variables on glyphosate consumption in France. <br> > <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Prédiction du prix des logements à Seattle
+        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Housing price prediction in Seattle (US)
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_prix_logements_king_county/blob/main/projet.pdf
         quote: >
-          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
+          Project conducted in 2023 under the supervision of Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Traitement et présentation des données de vente de biens immobiliers dans le comté de King à Washington (USA), analyse des relations entre les caracteristiques et le prix des logements, puis constitution d'un modèle linéaire pour la prédiction du prix des logements selon leurs caracteristiques. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Processed and presented real estate sales data in King County, Washington (USA); analyzed the relationships between housing characteristics and prices; built a linear model to predict housing prices based on property features. <br>  <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Enseignant-Tuteur en Mathématiques
         quote: >
-          Poste occupé en 2022, 2023 et 2024 à la Faculté d'Economie de l'UGA
+          Position held in 2022, 2023, and 2024 at the Faculty of Economics, Université Grenoble Alpes (UGA).
         description: | # this will include new lines to allow paragraphs
-          Enseignement des mathématiques niveau lycée (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
+          Taught high-school level mathematics (Equations, Derivatives, Limits) to classes of 10 Economics–Management students at the Faculty of Economics and Management (UGA); developed teaching techniques to prepare lessons and effectively guide students during classes.
 
-  - title: Experience professionnelle
+  - title: Work experience
     layout: list
     content:
       - layout: right
         title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
-        sub_title: Monteur - Assembleur - Soudeur - Cableur
-        caption: Eté 2019 / 2020 / 2021 / 2024
+        sub_title: Mechanical Assembler – Welder – Electrical Cable Assembler
+        caption: Summer 2019 / 2020 / 2021 / 2024
         quote: >
-          Schneider Electric Ecofit est spécialisée dans la rénovation de disjoncteurs moyenne tension
+          Schneider Electric Ecofit – specialized in medium-voltage circuit breaker refurbishment
         description: | # this will include new lines to allow paragraphs
-          Production à la chaine / Manipulation de gaz dangereux / Contrôle qualité
+          Assembly line production / Handling of hazardous gases / Quality control
       - layout: right
         title: '<img src="images/laposte.png" height="50" style="vertical-align:middle; margin-right:5px;">'
-        sub_title: Facteur à vélo
-        caption: Eté 2020 / 2021 / 2022 / 2023
+        sub_title: Mail Carrier (Cyclist)
+        caption: Summer 2020 / 2021 / 2022 / 2023
         quote: >
-          La Poste est le service postal principal en France
+          La Poste, the main postal service in France
         description: | # this will include new lines to allow paragraphs
-          Distribution de courrier à vélo / Tri de courrier
+          Mail delivery by bicycle / Mail sorting
       - layout: right
         title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
-        sub_title: Assistant Import-Export
+        sub_title: Import-Export Assistant
         caption: Avril-Mai 2021
         description: | # this will include new lines to allow paragraphs
-          Prospection client / Montage d'operations import/export
+          Client Prospecting / Import–Export Operations Setup
 
-  - title: Un peu plus sur moi
+  - title: About Me
     layout: list
     content:
       - layout: right
         title: '<img src="images/alpi.jpeg" width="300" style="vertical-align:middle; margin-right:5px;">'
         description: | # this will include new lines to allow paragraphs
-          - J'ai découvert un intérêt pour l'informatique dès mes 10 ans, lorsque j'ai eu mon premier PC. Seulement, un an après, j'ai éteint par erreur mon PC pendant une mise à jour Windows. J'ai du trouver un moyen de remplacer mon OS corrompu. Pour ce faire, j'ai installé Linux (Ubuntu 10.04), et appris à l'utiliser depuis !
+          - I discovered an interest in computer science at the age of 10, when I got my first PC. Only a year later, I accidentally turned off my computer during a Windows update and corrupted my operating system. To fix this, I installed Linux (Ubuntu 10.04) and learned how to use it ever since!
           
           
-          - Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds. Lors de cette saison 2024, j'ai pu faire, entre-autres :
+          - When I am not working, you will usually find me on the peaks of the Alps, ice axe in hand and crampons on my feet. During the 2024 season, I climbed, among others:
             - <b>Mont Blanc 4806m</b> (freesolo)
             - <b>Pic de La Grave 3628m</b> (freesolo)
             - <b>Gran Paradiso 4061m</b> (freesolo)
-            - <b>Barre des Ecrins 4102m</b>
-
-
-          - A part la nature, j'aime beaucoup l'escalade, la mecanique voiture/moto, l'informatique en général et ... la nature surtout !
+            - <b>Barre des Écrins 4102m</b>
+          
+          
+          - Besides nature, I really enjoy climbing, working on cars and motorcycles, computer science in general and… most of all, nature!
 
 # Footer
 footer_show_references: true
