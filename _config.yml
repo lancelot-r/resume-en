@@ -55,22 +55,22 @@ about_title: About me
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
 
-  Passionated by data analysis and its impact in real world, i'm currently seeking an M2 internship (6 months) in biostatistics (preferably modelization/machine learning), with the objective to pursue my dream of <b>doing a thesis in this research field</b>.
+  Passionate about data analysis and its impact in real world, i'm currently seeking an M2 internship (6 months) in biostatistics (preferably modelization/machine learning), with the objective to pursue my dream of <b>doing a thesis in this research field</b>.
 
   <hr>
 
   Spoken languages :
   <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;" title="French">
   (native),
-  <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Anglais">
+  <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;" title="English">
   (fluent),
-  <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Portugais (Brésil)">
+  <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Portugese (Brasil)">
   (native),
-  <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Espagnol">
+  <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Spanish">
   (intermediate),
-  <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Allemand">
+  <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="German">
   (beginner),
-  <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Russe">
+  <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Russian">
   (beginner)
 
   <hr>
@@ -96,9 +96,9 @@ content:
         link_text: Project "Expedition 5300"
         quote: >
           
-          Effect of altitude on the developpement of children aged 6 month to 12 years, born in the highest city in the world located in Peru
+          Effect of altitude on the development of children aged 6 month to 12 years, born in the highest city in the world located in Peru
         description: | # this will include new lines to allow paragraphs
-          Scientific paper being drafted for submission in early 2026 following my internship at HP2 laboratory (INSERM U1042) about project "Expedition 5300" in which i did the data nalysis and created models to explain and predict altitude effect on the developpement of hematological developpement of children born and living in Peru, at the highest city in the world (La Rinconada - 5300m) <br>
+          Scientific paper being drafted for submission in early 2026 following my internship at HP2 laboratory (INSERM U1042) about project "Expedition 5300" in which i did the data nalysis and created models to explain and predict altitude effect on the development of hematological development of children born and living in Peru, at the highest city in the world (La Rinconada - 5300m) <br>
           <b>Targeted journal : American Journal of Hematology</b>
 
   - title: Degrees # Title for the section
@@ -109,7 +109,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistics and Data Science
         quote: >
-          Université Grenoble Alpes - Actuel
+          Université Grenoble Alpes - Present
         description: | # this will include new lines to allow paragraphs
           Courses taken : <b>Computational statistics</b> (bootstrap, MCMC, Bayesian), <b>High-dimensional statistics</b> (multiple tests, Lasso, Ridge), <b>Nonparametric estimation</b> (kernel, regression functions), <b>Machine Learning</b> (Trees, SVM, random forests, deep learning using Python), <b>Optimization</b> (Python, Julia), <b>Advanced biostatistics</b> (Cox regression, mixed models, causality inference), <b>Reliability</b> (probability laws, Weibull, maintenance), <b>Large language models</b> (NLP using PyTorch/TensorFlow, Word2Vec, BERT), <b>Geostatistics</b> (kriging, Poisson process, Gibbs models).
       - layout: left
@@ -124,7 +124,7 @@ content:
           <b>Statistical inference</b>, 
           <b>Statistical tests</b>, 
           <b>Machine learning</b> (clustering, LDA, QDA, logistic regression, lasso/ridge models), 
-          <bComponent analysis</b> (PCA, PCF, Classification), 
+          <b>Component analysis</b> (PCA, PCF, Classification), 
           <b>Time series</b> (ARMA/ARIMA), 
           <b>Linear models and GLM</b>, 
           <b>Database</b> (SQL), 
@@ -147,7 +147,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Project "Expedition 5300" (Childrens)
+        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Project "Expedition 5300" (Children)
         link: https://expedition5300.com/nos-recherches/
         link_text: Official website of the project
         additional_links:
@@ -155,9 +155,9 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
-          Master 1 internship supervized by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles)
+          Master 1 internship supervised by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles)
         description: | # this will include new lines to allow paragraphs
-         As part of the Expedition 5300 project, i began by reading scientific articles (in english) provided by my supervisor, then i contributed to the data processing and analysis of physiological and hematological data by choosing the right statistical methods to quantify the effect of altitude on the developpement of childrens living in Lima (150m), Cusco (3400m), Juliaca (3800m), and La Rinconada (5300m). I also participated in establishing detection tresholds and evaluating different epidemiological definitions of anemia and polypolycythemia. Finally, i summarized my results by creating figures, statistical summaries and vizualizations for related publications and communications.
+         As part of the Expedition 5300 project, i began by reading scientific articles (in english) provided by my supervisor, then i contributed to the data processing and analysis of physiological and hematological data by choosing the right statistical methods to quantify the effect of altitude on the development of children living in Lima (150m), Cusco (3400m), Juliaca (3800m), and La Rinconada (5300m). I also participated in establishing detection thresholds and evaluating different epidemiological definitions of anemia and polycythemia. Finally, i summarized my results by creating figures, statistical summaries and visualizations for related publications and communications.
          <br> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -168,9 +168,9 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_prognostic_biomarkers_in_colon_cancer/blob/main/01_final_report.pdf
         quote: >
-          Research project supervized by Ekaterina Flin and Pr. Severine Valmary-Degano at IAB Laboratory, Grenoble (2024/2025)
+          Research project supervised by Ekaterina Flin and Pr. Severine Valmary-Degano at IAB Laboratory, Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Comparison of colon cancer detection performance according to the antibody chosen using survival curves, log-rank test and Cox models, and training Machine Learning models to detect certains tumors requiring specific treatment using gene expression and methylation data. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Comparison of colon cancer detection performance according to the antibody chosen using survival curves, log-rank test and Cox models, and training Machine Learning models to detect certain tumors requiring specific treatment using gene expression and methylation data. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -183,7 +183,7 @@ content:
         quote: >
           Data challenge conducted under the supervision of Florent Chuffart (IAB Grenoble) as part of Master's course in machine learning (M1)
         description: | # this will include new lines to allow paragraphs
-          Developement and comparison of statistical and machine learning models (penalized regressions, XGBoost, ElasticNet) applied to DNA methylation data. Optimization through cross-validation and performance evaluation using RMSE. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Development and comparison of statistical and machine learning models (penalized regressions, XGBoost, ElasticNet) applied to DNA methylation data. Optimization through cross-validation and performance evaluation using RMSE. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -196,7 +196,7 @@ content:
         quote: >
           Project conducted in 2024 under the supervision of Remy Drouilhet (IMAG - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Coded a Blackjack game in Julia without external packages; developed the graphical interface in Pluto using HTML; performed benchmarks between Julia/R/Cpp; implemented various functions to illustrate Julia's multiple dispatch versus R's single dispatch <br>
+          Coded a Blackjack game in Julia without external packages; developed the graphical interface in Pluto using HTML; performed benchmarks between Julia/R/Cpp; implemented various functions to illustrate Julia's multiple dispatch versus R's single dispatch. <br>
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
@@ -243,7 +243,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Enseignant-Tuteur en Mathématiques
+        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Mathematics Teacher-Tutor
         quote: >
           Position held in 2022, 2023, and 2024 at the Faculty of Economics, Université Grenoble Alpes (UGA).
         description: | # this will include new lines to allow paragraphs
@@ -271,7 +271,7 @@ content:
       - layout: right
         title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Import-Export Assistant
-        caption: Avril-Mai 2021
+        caption: April-May 2021
         description: | # this will include new lines to allow paragraphs
           Client Prospecting / Import–Export Operations Setup
 
