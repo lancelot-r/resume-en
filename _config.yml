@@ -55,7 +55,7 @@ about_title: About me
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
 
-  Passionate about data analysis and its impact in real world, i'm currently seeking an M2 internship (6 months) in biostatistics (preferably modelization/machine learning), with the objective to pursue my dream of <b>doing a thesis in this research field</b>.
+  Passionate about data analysis and its impact in real world, i'm currently seeking for a thesis in biostatistics (preferably modelization/ai), with the objective to pursue my dream of diong research on this field.
 
   <hr>
 
@@ -144,6 +144,21 @@ content:
   - title: Projects and academic experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: <img src="images/ljk.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br>Generative models for functional protein design
+        additional_links:
+          - title:  Personal github repo
+            icon: fab fa-github
+            url: https://github.com/lancelot-r
+        quote: >
+          Master 2 internship supervised by Sergei Grudinin at the LJK laboratory (CNRS UMR 5224) - 2025/2026
+        description: | # this will include new lines to allow paragraphs
+         The main objective of this internship is to develop inverse protein design model which explicitely incorporate protein motions. For this, i'm going to fine-tune protein language model and evaluate for mutational outcome prediction, extend the model to design protein sequence conditioned on desired motions considering various approaches and validate the results experimentally.
+         <br> <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -153,9 +168,9 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r
         quote: >
-          Master 2 project supervised by Maxime Peyrard at the LIG laboratory, Grenoble (2025/2026)
+          Master 2 project supervised by Maxime Peyrard at the LIG laboratory (CNRS UMR 5217) - 2025/2026
         description: | # this will include new lines to allow paragraphs
-         The objective here was to create an entropy estimator using Transformer architecture, to see if we can outperform non-parametric estimators implemented in Python. We coded a pipeline from scratch using pytorch and trained our model on generated samples (all of the experiences are reproductible using the pipeline in the repo). We got good results especially in high dimension where we outperformed the NPEET estimator with a lower MSE and a more stable bias and variance.
+         The objective here was to create an entropy estimator using the Transformer architecture, to see if we can outperform non-parametric estimators implemented in Python. We coded a pipeline from scratch using pytorch and trained our model on generated samples (all of the experiences are reproductible using the pipeline in the repo). We got good results especially in high dimension where we outperformed the NPEET estimator with a lower MSE and a more stable bias and variance.
          <br> <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
@@ -169,7 +184,7 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
-          Master 1 internship supervised by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles) (2025)
+          Master 1 internship supervised by Samuel Verges at the HP2 laboratory (Inserm U 1042) - 2025
         description: | # this will include new lines to allow paragraphs
          As part of the Expedition 5300 project, i began by reading scientific articles (in english) provided by my supervisor, then i contributed to the data processing and analysis of physiological and hematological data by choosing the right statistical methods to quantify the effect of altitude on the development of children living in Lima (150m), Cusco (3400m), Juliaca (3800m), and La Rinconada (5300m). I also participated in establishing detection thresholds and evaluating different epidemiological definitions of anemia and polycythemia. Finally, i summarized my results by creating figures, statistical summaries and visualizations for related publications and communications.
          <br> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
@@ -183,7 +198,7 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_prognostic_biomarkers_in_colon_cancer/blob/main/01_final_report.pdf
         quote: >
-          Research project supervised by Ekaterina Flin and Pr. Severine Valmary-Degano at IAB Laboratory, Grenoble (2024/2025)
+          Research project supervised by Ekaterina Flin and Pr. Severine Valmary-Degano at IAB Laboratory (CNRS UMR 5309) - 2024/2025
         description: | # this will include new lines to allow paragraphs
           Comparison of colon cancer detection performance according to the antibody chosen using survival curves, log-rank test and Cox models, and training Machine Learning models to detect certain tumors requiring specific treatment using gene expression and methylation data. <br> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
