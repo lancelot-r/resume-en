@@ -147,6 +147,20 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: <img src="images/logo-lig.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br>Building an entropy estimator with Transformers
+        additional_links:
+          - title:  Personal github repo
+            icon: fab fa-github
+            url: https://github.com/lancelot-r
+        quote: >
+          Master 2 project supervised by Maxime Peyrard at the LIG laboratory, Grenoble (2025/2026)
+        description: | # this will include new lines to allow paragraphs
+         The objective here was to create an entropy estimator using Transformer architecture, to see if we can outperform non-parametric estimators implemented in Python. We coded a pipeline from scratch using pytorch and trained our model on generated samples (all of the experiences are reproductible using the pipeline in the repo). We got good results especially in high dimension where we outperformed the NPEET estimator with a lower MSE and a more stable bias and variance.
+         <br> <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Project "Expedition 5300" (Children)
         link: https://expedition5300.com/nos-recherches/
         link_text: Official website of the project
@@ -155,10 +169,11 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
-          Master 1 internship supervised by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles)
+          Master 1 internship supervised by Samuel Verges at the HP2 laboratory (South Hospital - Echirolles) (2025)
         description: | # this will include new lines to allow paragraphs
          As part of the Expedition 5300 project, i began by reading scientific articles (in english) provided by my supervisor, then i contributed to the data processing and analysis of physiological and hematological data by choosing the right statistical methods to quantify the effect of altitude on the development of children living in Lima (150m), Cusco (3400m), Juliaca (3800m), and La Rinconada (5300m). I also participated in establishing detection thresholds and evaluating different epidemiological definitions of anemia and polycythemia. Finally, i summarized my results by creating figures, statistical summaries and visualizations for related publications and communications.
          <br> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
