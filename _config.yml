@@ -55,7 +55,7 @@ about_title: About me
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
 
-  Passionate about data analysis and its impact in real world, i'm currently seeking for a thesis in biostatistics (preferably modelization/ai), with the objective to pursue my dream of diong research on this field.
+  Passionate about data analysis and its impact in real world, i'm currently seeking for a thesis in biostatistics (preferably modelization/ai), with the objective to pursue my dream of doing research in this field and becomming a lecturer.
 
   <hr>
 
@@ -154,7 +154,7 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r
         quote: >
-          Master 2 internship supervised by Sergei Grudinin at the LJK laboratory (CNRS UMR 5224) - 2025/2026
+          Master 2 internship supervised by Sergei Grudinin at the LJK laboratory (CNRS UMR 5224) - 2026
         description: | # this will include new lines to allow paragraphs
          The main objective of this internship is to develop inverse protein design model which explicitely incorporate protein motions. For this, i'm going to fine-tune protein language model and evaluate for mutational outcome prediction, extend the model to design protein sequence conditioned on desired motions considering various approaches and validate the results experimentally.
          <br> <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
