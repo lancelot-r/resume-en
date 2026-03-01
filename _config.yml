@@ -166,7 +166,7 @@ content:
         additional_links:
           - title:  Personal github repo
             icon: fab fa-github
-            url: https://github.com/lancelot-r
+            url: https://github.com/lancelot-r/project_pytorch_entropy
         quote: >
           Master 2 project supervised by Maxime Peyrard at the LIG laboratory (CNRS UMR 5217) - 2025/2026
         description: | # this will include new lines to allow paragraphs
